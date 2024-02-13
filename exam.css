@@ -1,0 +1,27 @@
+.left_side{
+    background-color: red;
+    height: 720px;
+}
+.home_content{
+    color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.admin_section{
+    background-color: red;
+    height: 200px;
+    color: white;
+   
+}
+.admin_heading{
+    margin-top: 80px;
+
+}
+.bar_icon{
+    margin-top: 85px;
+    font-size: x-large; 
+}
+/* .user_button{
+    height: 80px;
+   max-width:400px ; 
+} */
